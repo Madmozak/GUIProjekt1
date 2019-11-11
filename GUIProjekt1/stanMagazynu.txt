@@ -1,0 +1,129 @@
+
+ ID: e85faacc-3874-4e11-b89a-73fe1f6c296e
+ Nazwa pomieszczenia: Pom1
+ Wlasciciel: Imie: Jan
+ Nazwisko: Kowalski
+ PESEL: 1234599
+ Adres: Warszawa
+ Rozmiar: 500
+ Pozostale miejsce: 500
+ Data wynajmu: 2018-06-02
+ Ilosc dni wynajmu: 20
+ Przedmioty: 
+[]
+ 
+
+
+ ID: 7df3bbe3-42a6-4d8a-854e-a67c7e4b1b07
+ Nazwa pomieszczenia: Pom2
+ Wlasciciel: null
+ Rozmiar: 50
+ Pozostale miejsce: 50
+ Data wynajmu: null
+ Ilosc dni wynajmu: 20
+ Przedmioty: 
+[]
+ 
+
+
+ ID: 4a46992a-b767-4482-9971-caae798b0dae
+ Nazwa pomieszczenia: Pom3
+ Wlasciciel: null
+ Rozmiar: 50
+ Pozostale miejsce: 50
+ Data wynajmu: null
+ Ilosc dni wynajmu: 20
+ Przedmioty: 
+[]
+ 
+
+
+ ID: 442ea280-c97d-4efb-abf4-7060469406c3
+ Nazwa pomieszczenia: Pom4
+ Wlasciciel: Imie: Jan
+ Nazwisko: Kowalski
+ PESEL: 1234599
+ Adres: Warszawa
+ Rozmiar: 220
+ Pozostale miejsce: 220
+ Data wynajmu: 2018-06-02
+ Ilosc dni wynajmu: 200
+ Przedmioty: 
+[]
+ 
+
+
+ ID: 465c8bc6-aa66-4b44-95fa-aedc60083335
+ Nazwa pomieszczenia: Pom5
+ Wlasciciel: null
+ Rozmiar: 50
+ Pozostale miejsce: 50
+ Data wynajmu: null
+ Ilosc dni wynajmu: 20
+ Przedmioty: 
+[]
+ 
+
+
+ ID: ed10c052-fd12-4e5a-bb0a-006a911e4c4d
+ Nazwa pomieszczenia: Pom6
+ Wlasciciel: null
+ Rozmiar: 50
+ Pozostale miejsce: 50
+ Data wynajmu: null
+ Ilosc dni wynajmu: 20
+ Przedmioty: 
+[]
+ 
+
+
+ ID: c2ec0321-baa1-4b1d-bcab-0ef6bdb43786
+ Nazwa pomieszczenia: Pom7
+ Wlasciciel: null
+ Rozmiar: 50
+ Pozostale miejsce: 50
+ Data wynajmu: null
+ Ilosc dni wynajmu: 20
+ Przedmioty: 
+[]
+ 
+
+
+ ID: bcab40d9-dba0-49a1-b409-1b776c38923b
+ Nazwa pomieszczenia: Pom8
+ Wlasciciel: null
+ Rozmiar: 50
+ Pozostale miejsce: 50
+ Data wynajmu: null
+ Ilosc dni wynajmu: 20
+ Przedmioty: 
+[]
+ 
+
+
+ ID: a8bbe2fe-ed08-4630-8db0-29807647fc2e
+ Nazwa pomieszczenia: Pom9
+ Wlasciciel: Imie: cos
+ Nazwisko: ktokolwiek
+ PESEL: 123456
+ Adres: gdziekolwiek
+ Rozmiar: 30
+ Pozostale miejsce: 30
+ Data wynajmu: 2018-06-02
+ Ilosc dni wynajmu: 20
+ Przedmioty: 
+[]
+ 
+
+
+ ID: bd872e1d-facd-4919-91e9-5bdfd8afe9c7
+ Nazwa pomieszczenia: Pom10
+ Wlasciciel: null
+ Rozmiar: 8
+ Pozostale miejsce: 8
+ Data wynajmu: null
+ Ilosc dni wynajmu: 8
+ Przedmioty: 
+[]
+ 
+
